@@ -64,6 +64,9 @@
       "path": "cz-conventional-changelog"
     }
   },
+  "overrides": {
+    "esbuild": "0.25.12"
+  },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@aws-sdk/client-sqs": "^3.891.0",
